@@ -2,7 +2,7 @@
 I am Akash Jaiswal, a data enthusiast having around 5 years of experience in Data Warehousing and Business Intelligence, mainly responsible for analyzing requirements, developing data loading ETL's, and building interactive client dashboards. I also have experience in implementing RPA and statistical machine learning solutions to various business problems.
 
 
-![](https://giphy.com/gifs/13HgwGsXF0aiGY)
+https://external-preview.redd.it/FuqGGUPh2r8D5y9joV5UzJLme-Q5KVUq-SQYaJrVOvE.gif?format=mp4&s=ff402255f420afbacbd330ae0cb998be8be05e31
 
 <!--
 **akashjaiswal/akashjaiswal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
