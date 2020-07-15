@@ -1,8 +1,8 @@
-### Hi there, Welcome to my GitHub profile 👋
-I am Akash Jaiswal, A data enthusiast having around 5 years of experience in Data Warehousing and Business Intelligence, mainly responsible for analyzing requirements, developing data loading ETL's, and building interactive client dashboards. I also have experience in implementing RPA and statistical machine learning solutions to various business problems.
+## Hi there, Welcome to my GitHub profile 👋
+I am Akash Jaiswal, a data enthusiast having around 5 years of experience in Data Warehousing and Business Intelligence, mainly responsible for analyzing requirements, developing data loading ETL's, and building interactive client dashboards. I also have experience in implementing RPA and statistical machine learning solutions to various business problems.
 
 
-![](<div style="width:100%;height:0;padding-bottom:56%;position:relative;"><iframe src="https://giphy.com/embed/13HgwGsXF0aiGY" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/13HgwGsXF0aiGY">via GIPHY</a></p>)
+![](https://giphy.com/gifs/13HgwGsXF0aiGY)
 
 <!--
 **akashjaiswal/akashjaiswal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
