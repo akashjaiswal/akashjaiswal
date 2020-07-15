@@ -7,7 +7,7 @@ A data enthusiast having around 5 years of experience in 🛢 Data Warehousing a
 👨‍🎓 I have recently completed my Post Graduation In Artificial Intelligence and Machine Learning 👨‍🎓
 
 
-**Speaking about Personal Stuffs**:
+**Personal Stuffs**:
 
 - 🔭 I’m currently working on a personal dashboard to predict crimes in the city using Machine Learning. 🎯
 
