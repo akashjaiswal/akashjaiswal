@@ -1,18 +1,27 @@
 ## Hi there, Welcome to my GitHub profile 👋
-A data enthusiast having around 5 years of experience in 🛢Data Warehousing and Business Intelligence 📊 , mainly responsible for analyzing requirements, developing data loading ETL's, and building interactive client dashboards. I also have experience in implementing RPA and statistical machine learning solutions to various business problems.
 
 <img alt="GIF" src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
 
+A data enthusiast having around 5 years of experience in 🛢 Data Warehousing and Business Intelligence 📊 , mainly responsible for analyzing requirements, developing data loading ETL's, and building interactive client dashboards. Also have experience in implementing RPA and statistical machine learning solutions to various business problems.
 
-<!--
-**akashjaiswal/akashjaiswal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👨‍🎓 I have recently completed my Post Graduation In Artificial Intelligence and Machine Learning 👨‍🎓
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+**Speaking about Personal Stuffs**:
+
+- 🔭 I’m currently working on a personal dashboard to predict crimes in the city using Machine Learning. 🎯
+
+- 🌱 I’m currently learning GAN's, Neural Networks in depth ⛓⛓
+
+- 👯 I’m looking to collaborate on Freelance opportunities 💰🤝💰
+
+- 🤔 I’m looking for help with Data Structures and Algorithms 😭
+
+- 💬 Ask me about anything, I am happy to help
+
+- 📫 How to reach me: 📧akash.jaiswal.data@gmail.com
+
+- 📝[Resume](https://drive.google.com/file/d/1ClyT5U7Zu_uKBxbnWOEVcWcitpT8UPDW/view?usp=sharing)
+
+
+
