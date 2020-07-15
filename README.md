@@ -1,7 +1,7 @@
 ## Hi there, Welcome to my GitHub profile 👋
 A data enthusiast having around 5 years of experience in 🛢Data Warehousing and Business Intelligence 📊 , mainly responsible for analyzing requirements, developing data loading ETL's, and building interactive client dashboards. I also have experience in implementing RPA and statistical machine learning solutions to various business problems.
 
-<img align="center" alt="GIF" src="https://media.giphy.com/media/13HgwGsXF0aiGY/source.gif" />
+<img alt="GIF" src="https://media.giphy.com/media/13HgwGsXF0aiGY/source.gif" />
 
 
 <!--
